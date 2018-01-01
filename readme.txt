@@ -5,3 +5,4 @@ Git tracks changes of flies.
 Git hello.
 It's a error.
 dev
+Creting a new branch is quick AND simple.
